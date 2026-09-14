@@ -27,6 +27,7 @@ python3 run_state_estimator_ros2.py
 P.S. Even when you launch plotjuggler, remember to source  **./ros2_localhost_connect.sh**
 
 ```bash
+source ros2_ws/install/setup.bash
 source ./ros2_localhost_connect.sh
 ros2 run plotjuggler plotjuggler
 
