@@ -5,7 +5,7 @@
 
 1. install [miniforge/conda](https://github.com/conda-forge/miniforge/releases) (x86_64 or arm64 depending on your platform)
 
-2. create an environment using the file in the folder [installation](./installation) choosing between **nvidia, integrated gpu and ros2 version**:
+2. create an environment using the file in the folder [installation](./installation):
 
 
 ```bash
@@ -13,6 +13,8 @@ conda env create -f mamba_environment_ros2.yml
 conda activate ekf_legged_robot_env
 
 ```
+
+3. Install https://github.com/iit-DLSLab/Quadruped-PyMPC, branch feat/cleaning_helpers_main, for running a simulation with ground truth!
 
 ### Run
 
