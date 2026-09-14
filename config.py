@@ -18,8 +18,6 @@ joint_names = tuple(
 )
 foot_names = {leg: f"{leg}_foot" for leg in leg_order}
 
-# Kinematics always comes from the configured MuJoCo XML model.
-kinematics_backend = "mujoco"
 warp_device = "cpu"
 # Set to "cuda" to run the PyTorch EKF on the GPU. MuJoCo Warp remains on
 # the device selected by warp_device.
