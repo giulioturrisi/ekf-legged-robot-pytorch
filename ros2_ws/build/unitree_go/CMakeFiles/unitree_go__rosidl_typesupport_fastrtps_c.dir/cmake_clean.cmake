@@ -1,0 +1,26 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/link.d"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/bms_state__type_support_c.cpp.o"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/bms_state__type_support_c.cpp.o.d"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/imu_state__type_support_c.cpp.o"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/imu_state__type_support_c.cpp.o.d"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/low_state__type_support_c.cpp.o"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/low_state__type_support_c.cpp.o.d"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/motor_state__type_support_c.cpp.o"
+  "CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/motor_state__type_support_c.cpp.o.d"
+  "libunitree_go__rosidl_typesupport_fastrtps_c.pdb"
+  "libunitree_go__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/bms_state__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/bms_state__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/imu_state__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/imu_state__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/low_state__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/low_state__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/motor_state__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/unitree_go/msg/detail/motor_state__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/unitree_go__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,9 @@
+{
+  "package_name": "unitree_go",
+  "non_idl_tuples": [
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/unitree_go:msg/BmsState.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/unitree_go:msg/IMUState.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/unitree_go:msg/LowState.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/unitree_go:msg/MotorState.msg"
+  ]
+}

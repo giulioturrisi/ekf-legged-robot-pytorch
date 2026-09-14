@@ -1,0 +1,30 @@
+{
+  "package_name": "unitree_go",
+  "output_dir": "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_generator_py/unitree_go",
+  "template_dir": "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/BmsState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/IMUState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/LowState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/MotorState.idl"
+  ],
+  "target_dependencies": [
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/lib/python3.12/site-packages/rosidl_generator_py/__init__.py",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/lib/python3.12/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go/msg/BmsState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go/msg/IMUState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go/msg/LowState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go/msg/MotorState.idl"
+  ]
+}

@@ -1,0 +1,4 @@
+/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/BmsState.idl
+/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/IMUState.idl
+/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/LowState.idl
+/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/rosidl_adapter/unitree_go:msg/MotorState.idl

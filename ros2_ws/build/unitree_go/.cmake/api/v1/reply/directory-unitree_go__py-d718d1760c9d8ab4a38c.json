@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "unitree_go__py",
+		"source" : "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/unitree_go/unitree_go__py"
+	}
+}

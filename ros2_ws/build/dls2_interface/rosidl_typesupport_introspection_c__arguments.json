@@ -1,0 +1,31 @@
+{
+  "package_name": "dls2_interface",
+  "output_dir": "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_typesupport_introspection_c/dls2_interface",
+  "template_dir": "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/Pose.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/Screw.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/BlindState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/BaseState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/BaseStateDebug.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/Imu.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface:msg/TrajectoryGenerator.idl"
+  ],
+  "target_dependencies": [
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/lib/python3.12/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/home/gturrisi-iit.local/miniforge3/envs/ekf_legged_robot_env/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/Pose.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/Screw.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/BlindState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/BaseState.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/BaseStateDebug.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/Imu.idl",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/build/dls2_interface/rosidl_adapter/dls2_interface/msg/TrajectoryGenerator.idl"
+  ]
+}

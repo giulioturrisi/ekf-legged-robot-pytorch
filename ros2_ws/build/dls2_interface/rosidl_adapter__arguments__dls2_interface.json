@@ -1,0 +1,12 @@
+{
+  "package_name": "dls2_interface",
+  "non_idl_tuples": [
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/Pose.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/Screw.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/BlindState.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/BaseState.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/BaseStateDebug.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/Imu.msg",
+    "/home/gturrisi-iit.local/other_ws_home/iekf-legged-robot-pytorch/ros2_ws/src/dls2_interface:msg/TrajectoryGenerator.msg"
+  ]
+}
