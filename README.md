@@ -25,6 +25,7 @@ Keep `torch_device = "cpu"` and `warp_device = "cpu"` in `config.py`
 (the current defaults). The CPU environment explicitly selects the CPU build of
 PyTorch and retains Warp and MuJoCo Warp for the kinematics backend.
 
+
 ### Run
 
 In config.py you can change noise and stuff. Then:
