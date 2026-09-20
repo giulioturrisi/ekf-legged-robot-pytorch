@@ -119,7 +119,7 @@ class StateEstimatorROS2(Node):
         self.foot_force_leg_order = ("FR", "FL", "RR", "RL")
         self.input_quat_order = "xyzw"
         self.output_quat_order = "xyzw"
-        self.contact_force_threshold = 15.0
+        self.contact_force_threshold = config.contact_force_threshold
         self.assume_all_stance = False
         self.low_state_topic = "/lowstate"
         self.output_topic = "/ekf_base_state"

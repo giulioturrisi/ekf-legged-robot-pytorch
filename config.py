@@ -25,14 +25,16 @@ torch_device = "cpu"
 
 # Standard deviations used by EKFNoise. Values are SI units where applicable.
 noise = {
-    "gyro": 0.015,
-    "accel": 0.05,
+    "gyro": 0.0005,
+    "accel": 0.0005,
     "gyro_bias": 0.0005,
     "accel_bias": 0.005,
-    "contact_position": 0.02,
-    "contact_velocity": 0.08,
-    "joint_position": 0.003,
+    "contact_position": 0.0005,
+    "contact_velocity": 0.0005,
+    "joint_position": 0.0005,
 }
+
+contact_force_threshold = 15 #Nm
 
 max_dt = 0.05
 gravity = (0.0, 0.0, -9.81)
